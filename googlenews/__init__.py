@@ -1,0 +1,1 @@
+from .googlenews import GoogleNews
